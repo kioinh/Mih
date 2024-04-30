@@ -1,5 +1,5 @@
 {
-  "Version": "38.0.2",
+  "Version": "39.0.0",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://github.com/kioinh/Mih/blob/main/UrlUpdate.txt",
   "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
@@ -25,19 +25,19 @@
   ],
   "Servers": [
     {
-      "Name": "TESTE UPDATE | PLUS",
+      "Name": "Servidor BR| PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "premium01.conecta4g.xyz",
+      "ServerIP": "vulknet.brazilsouth.cloudapp.azure.com",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     },
     {
-      "Name": "PREMIUM 02 | PLUS",
+      "Name": "ESTADOS UNIDOS| PLUS",
       "TYPE": "free",
-      "FLAG": "br.png",
+      "FLAG": "us.png",
       "ServerIP": "premium02.conecta4g.xyz",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -47,12 +47,12 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO PROXY 01",
+      "Name": "VIVO 01",
       "FLAG": "vivo",
-      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "[delay_split]GET http://portalrecarga.vivo.com.br/ HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=microsoft.com;youtube.com;instagram.com;71.cloudfront.net;www.dropbox.com;m.olx.com.br;ff.garena.com;www.terra.com;salesrock.virginmobile.mx;www.minecraft.msgfocus.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.16.56.6",
+      "ProxyIP": "",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
