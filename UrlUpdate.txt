@@ -1,5 +1,5 @@
 {
-  "Version": "31.0.0",
+  "Version": "32.0.0",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://github.com/kioinh/Mih/blob/main/UrlUpdate.txt",
   "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
@@ -52,7 +52,7 @@
       "Payload": "[delay_split]GET http://portalrecarga.vivo.com.br/ HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=microsoft.com;youtube.com;instagram.com;71.cloudfront.net;www.dropbox.com;m.olx.com.br;ff.garena.com;www.terra.com;salesrock.virginmobile.mx;www.minecraft.msgfocus.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "",
+      "ProxyIP": "vulknet.brazilsouth.cloudapp.azure.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
