@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "30.0.2",
   "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://github.com/kioinh/Mih/blob/main/UrlUpdate.txt",
   "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
