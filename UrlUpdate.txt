@@ -1,7 +1,8 @@
 {
-  "Version": "36.1.0",
-  "ReleaseNotes": "Nova Atualização Disponível
-Tec_Tom",
+  "Version": "37.1.0",
+  "ReleaseNotes": "**Novo Servidor Adicionado:**
+
+Ampliamos nossa rede com um novo servidor, garantindo melhor desempenho, maior disponibilidade e menor latência para uma experiência ainda mais fluida e estável no Tec_Tom. Aproveite ao máximo nossos serviços aprimorados!",
   "UrlUpdate": "https://raw.githubusercontent.com/kioinh/Mih/main/UrlUpdate.txt",
   "Sms": "COLOCAR LINK DE SMS ONLINE AQUI",
   "EmailFeedback": "",
@@ -20,6 +21,17 @@ Tec_Tom",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
+    }
+   {
+      "Name": "SERVER WLQ",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "vps5w.ml",
+      "CheckUser": "http://45.173.129.35:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "w2222",
+      "PASS": "w2222"
     }
   ],
   "Networks": [
