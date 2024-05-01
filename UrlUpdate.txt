@@ -1,5 +1,5 @@
 {
-  "Version": "42",
+  "Version": "43",
   "ReleaseNotes": "**Novo Servidor Adicionado:**",
   "UrlUpdate": "https://raw.githubusercontent.com/kioinh/Mih/main/UrlUpdate.txt",
   "Sms": "COLOCAR LINK DE SMS ONLINE AQUI",
@@ -11,6 +11,17 @@
   "Servers": [
     {
       "Name": "SERVIDOR",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "20.206.204.233",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+    {
+      "Name": "SERVIDOR 2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "20.206.204.233",
