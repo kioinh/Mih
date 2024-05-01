@@ -1,5 +1,5 @@
 {
-  "Version": "35.1.0",
+  "Version": "36.1.0",
   "ReleaseNotes": "Nova Atualização Disponível
 Tec_Tom",
   "UrlUpdate": "https://raw.githubusercontent.com/kioinh/Mih/main/UrlUpdate.txt",
