@@ -1,8 +1,6 @@
 {
-  "Version": "39.0.0",
-  "ReleaseNotes": "**Novo Servidor Adicionado:**
-
-Ampliamos nossa rede com um novo servidor, garantindo melhor desempenho, maior disponibilidade e menor latência para uma experiência ainda mais fluida e estável no Tec_Tom. Aproveite ao máximo nossos serviços aprimorados!",
+  "Version": "38.0.0",
+  "ReleaseNotes": "**Novo Servidor Adicionado:**",
   "UrlUpdate": "https://raw.githubusercontent.com/kioinh/Mih/main/UrlUpdate.txt",
   "Sms": "COLOCAR LINK DE SMS ONLINE AQUI",
   "EmailFeedback": "",
