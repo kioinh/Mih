@@ -1,5 +1,5 @@
 {
-  "Version": "41",
+  "Version": "42",
   "ReleaseNotes": "**Novo Servidor Adicionado:**",
   "UrlUpdate": "https://raw.githubusercontent.com/kioinh/Mih/main/UrlUpdate.txt",
   "Sms": "COLOCAR LINK DE SMS ONLINE AQUI",
