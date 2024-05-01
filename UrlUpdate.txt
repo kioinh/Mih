@@ -1,6 +1,7 @@
 {
-  "Version": "35.0.0",
-  "ReleaseNotes": "Nova Atualização Disponível",
+  "Version": "35.1.0",
+  "ReleaseNotes": "Nova Atualização Disponível
+Tec_Tom",
   "UrlUpdate": "https://raw.githubusercontent.com/kioinh/Mih/main/UrlUpdate.txt",
   "Sms": "COLOCAR LINK DE SMS ONLINE AQUI",
   "EmailFeedback": "",
