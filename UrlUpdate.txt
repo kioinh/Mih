@@ -20,17 +20,6 @@
       "USER": "",
       "PASS": ""
     }
-   {
-      "Name": "SERVER WLQ",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "vps5w.ml",
-      "CheckUser": "http://45.173.129.35:8181/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "w2222",
-      "PASS": "w2222"
-    }
   ],
   "Networks": [
     {
